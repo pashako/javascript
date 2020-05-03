@@ -13,14 +13,14 @@
 
 // console.log(result);
 
-// alert("Скиньте плз деньги на карточку **** **** **** **** очень надо!");
+alert("Скиньте плз деньги на карточку **** **** **** **** очень надо!");
 
 
 // var c = confirm();
-// console.log(c);
+console.log(c);
 
-// const z = prompt("enter your card number");
-// const z1 = prompt("enter your password pls");
+const z = prompt("enter your card number");
+const z1 = prompt("enter your password pls");
 
 // const a = 9;
 // let b = "9";
